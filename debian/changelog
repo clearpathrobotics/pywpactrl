@@ -1,3 +1,9 @@
+python-wpactrl (1.0.8-1ubuntu1) unstable; urgency=low
+
+  * Updating build rules to use python2 instead of python-central
+
+ -- Mike O'Driscoll <mike@mikeodriscoll.ca>  Mon, 23 Jan 2017 14:53:32 -0500
+
 python-wpactrl (1.0.7-1) unstable; urgency=low
 
   * More build system tweaks.
